@@ -1,5 +1,5 @@
 
-# $$REPO
+# rebrain-devops-task1
 
 > $$1LINER
 
@@ -14,7 +14,7 @@ $$EXAMPLE
 ## API
 
 ```js
-const $$rePo = require('$$REPO')
+const rebrain-devops-task1 = require('rebrain-devops-task1')
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
@@ -24,18 +24,18 @@ See [api_formatting.md](api_formatting.md) for tips.
 With [npm](https://npmjs.org/):
 
 ```shell
-npm install $$REPO
+npm install rebrain-devops-task1
 ```
 
 With [yarn](https://yarnpkg.com/en/):
 
 ```shell
-yarn add $$REPO
+yarn add rebrain-devops-task1
 ```
 
 ## Acknowledgments
 
-$$REPO was inspired by...
+rebrain-devops-task1 was inspired by...
 
 ## See Also
 
@@ -44,4 +44,4 @@ $$REPO was inspired by...
 
 ## License
 
-$$ZEE_LICENSE
+ISC
