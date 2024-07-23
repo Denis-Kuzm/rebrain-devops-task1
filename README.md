@@ -7,10 +7,9 @@ background details relevant to understanding what this module does
 
 ## Usage
 
-```javascript
+
 `rebrain-devops-task1` is a command line program. You run it when you've started a new
 module that has a `rebrain-devops-task1.json` set up.
-```
 
 ## API
 
