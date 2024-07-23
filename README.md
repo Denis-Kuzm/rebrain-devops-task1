@@ -35,7 +35,9 @@ yarn add rebrain-devops-task1
 
 ## Acknowledgments
 
-rebrain-devops-task1 was inspired by...
+rebrain-devops-task1 was inspired by:
+
+- [REBRAIN DevOps Practicum](https://lk.rebrainme.com/devops?page=tasks)
 
 ## See Also
 
