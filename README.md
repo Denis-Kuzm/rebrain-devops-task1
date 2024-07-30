@@ -1,9 +1,9 @@
 
 # rebrain-devops-task1
 
-> $$1LINER
+> GIT readme task
 
-background details relevant to understanding what this module does
+this is a readme file for REBRAIN devops task
 
 ## Usage
 
