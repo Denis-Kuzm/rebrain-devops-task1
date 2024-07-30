@@ -42,7 +42,6 @@ rebrain-devops-task1 was inspired by:
 ## See Also
 
 - [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- ...
 
 ## License
 
